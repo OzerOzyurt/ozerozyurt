@@ -13,10 +13,7 @@
 <h1 align="center">Hi 👋, I'm Özer Özyurt</h1>
 <h3 align="center">Javascript & React</h3>
 
-- 📫 How to reach me **ozersimav@gmail.com**
-
-//<h3 align="left">Connect with me:</h3>
-<p align="left">//
+<p align="center" 📫 How to reach me **ozersimav@gmail.com** </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
