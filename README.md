@@ -1,5 +1,5 @@
 # I'm Hakan Şen
-## JavaScript & Angular
+## JavaScript & React JS
 
 ### Connect with me:
 
