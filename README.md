@@ -1,4 +1,4 @@
-# I'm Hakan Şen
+# I'm Özer Özyurt
 ## JavaScript & React JS
 
 ### Connect with me:
